@@ -28,12 +28,10 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 ├── .tracker/
 │   └── log.json
 ├── solutions/
-│   ├── easy/
-│   │   └── [paddedNumber]-[slug]/
-│   │       ├── README.md
-│   │       └── solution.[ext]
-│   ├── medium/
-│   └── hard/
+│   └── [YYYY-MM-DD]/
+│       └── [paddedNumber]-[slug]/
+│           ├── README.md
+│           └── solution.[ext]
 └── README.md
 ```
 
@@ -43,5 +41,5 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
-| [3614. Process String with Special Operations II](solutions/hard/3614-process-string-with-special-operations-ii/) | 🔴 Hard | Python3 | 0ms | 2026-06-17 |
-| [1. Two Sum](solutions/easy/0001-two-sum/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-17 |
+| [3614. Process String with Special Operations II](solutions/2026-06-17/3614-process-string-with-special-operations-ii/) | 🔴 Hard | Python3 | 0ms | 2026-06-17 |
+| [1. Two Sum](solutions/2026-06-17/0001-two-sum/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-17 |
