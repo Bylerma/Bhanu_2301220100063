@@ -5,8 +5,8 @@
 # Language: Python3
 # URL: https://leetcode.com/problems/process-string-with-special-operations-ii/
 # Date: 2026-06-17
-# Runtime: N/A
-# Memory: N/A
+# Runtime: 0ms
+# Memory: 0.00MB
 
 class Solution:
      def processStr(self, s: str, k: int) -> str:
@@ -37,9 +37,6 @@ class Solution:
                   return c
               length -= 1
       return "."
-        
-            else:
-                result.append(ch)
-        return "".join(result)
+
 
 
