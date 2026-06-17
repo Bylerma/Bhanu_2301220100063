@@ -6,7 +6,7 @@
 # URL: https://leetcode.com/problems/two-sum/
 # Date: 2026-06-17
 # Runtime: 0ms (Beats 100%)
-# Memory: 0.00MB (Beats 100%)
+# Memory: 20.31MB (Beats 100%)
 
 class Solution:
     def twoSum(self, nums, target):
