@@ -28,5 +28,19 @@
     "memory": "0.00MB",
     "url": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
     "date": "2026-06-17"
+  },
+  {
+    "number": "1752",
+    "title": "Check if Array Is Sorted and Rotated",
+    "slug": "check-if-array-is-sorted-and-rotated",
+    "difficulty": "Easy",
+    "tags": [
+      "Array"
+    ],
+    "language": "Python3",
+    "runtime": "20260ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+    "date": "2026-06-18"
   }
 ]
