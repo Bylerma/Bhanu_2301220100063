@@ -43,4 +43,4 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | --- | --- | --- | --- | --- |
 | [1752. Check if Array Is Sorted and Rotated](solutions/2026-06-18/1752-check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Python3 | 20260ms (Beats 100%) | 2026-06-18 |
 | [3614. Process String with Special Operations II](solutions/2026-06-17/3614-process-string-with-special-operations-ii/) | 🔴 Hard | Python3 | 0ms | 2026-06-17 |
-| [1. Two Sum](solutions/2026-06-17/0001-two-sum/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-17 |
+| [1. Two Sum](solutions/2026-06-18/0001-two-sum/) | 🟢 Easy | Python3 | 3ms | 2026-06-18 |
