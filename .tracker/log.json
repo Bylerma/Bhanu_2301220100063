@@ -42,5 +42,21 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
     "date": "2026-06-18"
+  },
+  {
+    "number": "560",
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "language": "Python3",
+    "runtime": "31ms (Beats 77.66%)",
+    "memory": "21.74MB (Beats 77.66%)",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "date": "2026-06-18"
   }
 ]
