@@ -9,10 +9,10 @@
       "Hash Table"
     ],
     "language": "Python3",
-    "runtime": "0ms (Beats 100%)",
-    "memory": "20.31MB (Beats 100%)",
+    "runtime": "3ms",
+    "memory": "N/A",
     "url": "https://leetcode.com/problems/two-sum/",
-    "date": "2026-06-17"
+    "date": "2026-06-18"
   },
   {
     "number": "3614",
