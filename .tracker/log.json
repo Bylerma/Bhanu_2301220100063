@@ -73,5 +73,20 @@
     "memory": "2MB (Beats 100%)",
     "url": "https://leetcode.com/problems/binary-search/",
     "date": "2026-06-19"
+  },
+  {
+    "number": "35",
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "runtime": "0ms (Beats 100%)",
+    "memory": "19.86MB (Beats 100%)",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "date": "2026-06-19"
   }
 ]
