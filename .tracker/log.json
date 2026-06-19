@@ -103,5 +103,24 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "date": "2026-06-19"
+  },
+  {
+    "number": "268",
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "runtime": "0ms (Beats 98%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/missing-number/",
+    "date": "2026-06-19"
   }
 ]
