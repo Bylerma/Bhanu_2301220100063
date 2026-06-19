@@ -41,4 +41,4 @@ Constraints:
 ## 📊 Submission Stats
 | Language | Runtime | Memory | Date |
 | --- | --- | --- | --- |
-| Python3 | N/A | N/A | 2026-06-19 |
+| Python3 | 20260ms (Beats 100%) | N/A | 2026-06-19 |
