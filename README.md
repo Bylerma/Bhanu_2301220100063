@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **3 Days** |
-| 🚀 Total Solved | **8** |
+| 🚀 Total Solved | **9** |
 | 🟢 Easy Solved | **5** |
 | 🟡 Medium Solved | **2** |
-| 🔴 Hard Solved | **1** |
+| 🔴 Hard Solved | **2** |
 | 📅 Last Updated | **2026-06-19** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[█████████████░░░░░░░]` **5/8** (63%)
-- **Medium:** `[█████░░░░░░░░░░░░░░░]` **2/8** (25%)
-- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **1/8** (13%)
+- **Easy:** `[███████████░░░░░░░░░]` **5/9** (56%)
+- **Medium:** `[████░░░░░░░░░░░░░░░░]` **2/9** (22%)
+- **Hard:** `[████░░░░░░░░░░░░░░░░]` **2/9** (22%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [4. Median of Two Sorted Arrays](solutions/2026-06-19/0004-median-of-two-sorted-arrays/) | 🔴 Hard | Python3 | 2ms (Beats 100%) | 2026-06-19 |
 | [268. Missing Number](solutions/2026-06-19/0268-missing-number/) | 🟢 Easy | Python3 | 0ms (Beats 98%) | 2026-06-19 |
 | [33. Search in Rotated Sorted Array](solutions/2026-06-19/0033-search-in-rotated-sorted-array/) | 🟡 Medium | Python3 | 20260ms (Beats 100%) | 2026-06-19 |
 | [35. Search Insert Position](solutions/2026-06-19/0035-search-insert-position/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-19 |
