@@ -5,8 +5,8 @@
 # Language: Python3
 # URL: https://leetcode.com/problems/search-insert-position/
 # Date: 2026-06-19
-# Runtime: 0ms (Beats 100%)
-# Memory: 19.86MB (Beats 100%)
+# Runtime: N/A
+# Memory: N/A
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
