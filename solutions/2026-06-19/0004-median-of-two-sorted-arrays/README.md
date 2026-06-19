@@ -11,6 +11,7 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 The overall run time complexity should be O(log (m+n)).
 
  
+
 Example 1:
 
 Input: nums1 = [1,3], nums2 = [2]
@@ -26,15 +27,15 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 
  
+
 Constraints:
 
-
-	nums1.length == m
-	nums2.length == n
-	0 <= m <= 1000
-	0 <= n <= 1000
-	1 <= m + n <= 2000
-	-106 <= nums1[i], nums2[i] <= 106
+nums1.length == m
+nums2.length == n
+0 <= m <= 1000
+0 <= n <= 1000
+1 <= m + n <= 2000
+-106 <= nums1[i], nums2[i] <= 106
 
 ## 💡 Approach & Notes
 <!-- Describe your approach, notes, and complexity here (e.g., O(n) time, O(1) space) -->
@@ -42,4 +43,4 @@ Constraints:
 ## 📊 Submission Stats
 | Language | Runtime | Memory | Date |
 | --- | --- | --- | --- |
-| Python3 | 2ms (Beats 100%) | N/A | 2026-06-19 |
+| Python3 | 2ms (Beats 100%) | 19.5 MB (Beats 100%) | 2026-06-19 |
