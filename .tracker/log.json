@@ -154,5 +154,20 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/merge-sorted-array/",
     "date": "2026-06-19"
+  },
+  {
+    "number": "39",
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "Python3",
+    "runtime": "0 ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/combination-sum/",
+    "date": "2026-06-20"
   }
 ]
