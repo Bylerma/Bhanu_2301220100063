@@ -169,5 +169,22 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/combination-sum/",
     "date": "2026-06-20"
+  },
+  {
+    "number": "509",
+    "title": "Fibonacci Number",
+    "slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization"
+    ],
+    "language": "Python3",
+    "runtime": "0 ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/fibonacci-number/",
+    "date": "2026-06-20"
   }
 ]
