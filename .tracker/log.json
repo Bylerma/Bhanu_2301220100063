@@ -216,5 +216,23 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
     "date": "2026-06-21"
+  },
+  {
+    "number": "79",
+    "title": "Word Search",
+    "slug": "word-search",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "language": "Python3",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/word-search/",
+    "date": "2026-06-21"
   }
 ]
