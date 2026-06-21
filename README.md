@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **5 Days** |
-| 🚀 Total Solved | **14** |
+| 🚀 Total Solved | **15** |
 | 🟢 Easy Solved | **8** |
-| 🟡 Medium Solved | **3** |
+| 🟡 Medium Solved | **4** |
 | 🔴 Hard Solved | **3** |
 | 📅 Last Updated | **2026-06-21** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[███████████░░░░░░░░░]` **8/14** (57%)
-- **Medium:** `[████░░░░░░░░░░░░░░░░]` **3/14** (21%)
-- **Hard:** `[████░░░░░░░░░░░░░░░░]` **3/14** (21%)
+- **Easy:** `[███████████░░░░░░░░░]` **8/15** (53%)
+- **Medium:** `[█████░░░░░░░░░░░░░░░]` **4/15** (27%)
+- **Hard:** `[████░░░░░░░░░░░░░░░░]` **3/15** (20%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [79. Word Search](solutions/2026-06-21/0079-word-search/) | 🟡 Medium | Python3 | N/A | 2026-06-21 |
 | [876. Middle of the Linked List](solutions/2026-06-21/0876-middle-of-the-linked-list/) | 🟢 Easy | Python3 | 171ms (Beats 95.40%) | 2026-06-21 |
 | [51. N-Queens](solutions/2026-06-21/0051-n-queens/) | 🔴 Hard | Python3 | 010ms (Beats 100%) | 2026-06-21 |
 | [509. Fibonacci Number](solutions/2026-06-20/0509-fibonacci-number/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-20 |
