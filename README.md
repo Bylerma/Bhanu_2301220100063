@@ -6,18 +6,18 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Metric | Value |
 | --- | --- |
-| 🔥 Current Streak | **4 Days** |
-| 🚀 Total Solved | **12** |
+| 🔥 Current Streak | **5 Days** |
+| 🚀 Total Solved | **13** |
 | 🟢 Easy Solved | **7** |
 | 🟡 Medium Solved | **3** |
-| 🔴 Hard Solved | **2** |
-| 📅 Last Updated | **2026-06-20** |
+| 🔴 Hard Solved | **3** |
+| 📅 Last Updated | **2026-06-21** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[████████████░░░░░░░░]` **7/12** (58%)
-- **Medium:** `[█████░░░░░░░░░░░░░░░]` **3/12** (25%)
-- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **2/12** (17%)
+- **Easy:** `[███████████░░░░░░░░░]` **7/13** (54%)
+- **Medium:** `[█████░░░░░░░░░░░░░░░]` **3/13** (23%)
+- **Hard:** `[█████░░░░░░░░░░░░░░░]` **3/13** (23%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [51. N-Queens](solutions/2026-06-21/0051-n-queens/) | 🔴 Hard | Python3 | 010ms (Beats 100%) | 2026-06-21 |
 | [509. Fibonacci Number](solutions/2026-06-20/0509-fibonacci-number/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-20 |
 | [39. Combination Sum](solutions/2026-06-20/0039-combination-sum/) | 🟡 Medium | Python3 | 0 ms (Beats 100%) | 2026-06-20 |
 | [88. Merge Sorted Array](solutions/2026-06-19/0088-merge-sorted-array/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
