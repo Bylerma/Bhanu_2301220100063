@@ -186,5 +186,20 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/fibonacci-number/",
     "date": "2026-06-20"
+  },
+  {
+    "number": "51",
+    "title": "N-Queens",
+    "slug": "n-queens",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "Python3",
+    "runtime": "010ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/n-queens/",
+    "date": "2026-06-21"
   }
 ]
