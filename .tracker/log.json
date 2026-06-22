@@ -234,5 +234,21 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/word-search/",
     "date": "2026-06-21"
+  },
+  {
+    "number": "15",
+    "title": "3Sum",
+    "slug": "3sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "runtime": "28ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/3sum/",
+    "date": "2026-06-22"
   }
 ]
