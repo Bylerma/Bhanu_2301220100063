@@ -283,5 +283,21 @@
     "memory": "0.00MB (Beats 100%)",
     "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
     "date": "2026-06-22"
+  },
+  {
+    "number": "102",
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "runtime": "0ms (Beats 100%)",
+    "memory": "0.00MB (Beats 100%)",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "date": "2026-06-22"
   }
 ]
