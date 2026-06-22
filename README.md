@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **6 Days** |
-| 🚀 Total Solved | **17** |
-| 🟢 Easy Solved | **9** |
+| 🚀 Total Solved | **18** |
+| 🟢 Easy Solved | **10** |
 | 🟡 Medium Solved | **5** |
 | 🔴 Hard Solved | **3** |
 | 📅 Last Updated | **2026-06-22** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[███████████░░░░░░░░░]` **9/17** (53%)
-- **Medium:** `[██████░░░░░░░░░░░░░░]` **5/17** (29%)
-- **Hard:** `[████░░░░░░░░░░░░░░░░]` **3/17** (18%)
+- **Easy:** `[███████████░░░░░░░░░]` **10/18** (56%)
+- **Medium:** `[██████░░░░░░░░░░░░░░]` **5/18** (28%)
+- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **3/18** (17%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [144. Binary Tree Preorder Traversal](solutions/2026-06-22/0144-binary-tree-preorder-traversal/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-22 |
 | [1189. Maximum Number of Balloons](solutions/2026-06-22/1189-maximum-number-of-balloons/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-22 |
 | [15. 3Sum](solutions/2026-06-22/0015-3sum/) | 🟡 Medium | Python3 | 28ms (Beats 100%) | 2026-06-22 |
 | [79. Word Search](solutions/2026-06-21/0079-word-search/) | 🟡 Medium | Python3 | N/A | 2026-06-21 |
