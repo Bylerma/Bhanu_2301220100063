@@ -266,5 +266,22 @@
     "memory": "19.06MB (Beats 100%)",
     "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
     "date": "2026-06-22"
+  },
+  {
+    "number": "144",
+    "title": "Binary Tree Preorder Traversal",
+    "slug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "runtime": "0 ms (Beats 100%)",
+    "memory": "0.00MB (Beats 100%)",
+    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "date": "2026-06-22"
   }
 ]
