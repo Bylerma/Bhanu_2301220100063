@@ -6,18 +6,18 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Metric | Value |
 | --- | --- |
-| 🔥 Current Streak | **6 Days** |
-| 🚀 Total Solved | **19** |
+| 🔥 Current Streak | **7 Days** |
+| 🚀 Total Solved | **20** |
 | 🟢 Easy Solved | **10** |
-| 🟡 Medium Solved | **6** |
+| 🟡 Medium Solved | **7** |
 | 🔴 Hard Solved | **3** |
-| 📅 Last Updated | **2026-06-22** |
+| 📅 Last Updated | **2026-06-23** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[███████████░░░░░░░░░]` **10/19** (53%)
-- **Medium:** `[██████░░░░░░░░░░░░░░]` **6/19** (32%)
-- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **3/19** (16%)
+- **Easy:** `[██████████░░░░░░░░░░]` **10/20** (50%)
+- **Medium:** `[███████░░░░░░░░░░░░░]` **7/20** (35%)
+- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **3/20** (15%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [36. Valid Sudoku](solutions/2026-06-23/0036-valid-sudoku/) | 🟡 Medium | Python3 | 0 ms (Beats 96.78%) | 2026-06-23 |
 | [102. Binary Tree Level Order Traversal](solutions/2026-06-22/0102-binary-tree-level-order-traversal/) | 🟡 Medium | Python3 | 0ms (Beats 100%) | 2026-06-22 |
 | [144. Binary Tree Preorder Traversal](solutions/2026-06-22/0144-binary-tree-preorder-traversal/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-22 |
 | [1189. Maximum Number of Balloons](solutions/2026-06-22/1189-maximum-number-of-balloons/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-22 |
