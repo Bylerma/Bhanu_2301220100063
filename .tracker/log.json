@@ -315,5 +315,22 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/valid-sudoku/",
     "date": "2026-06-23"
+  },
+  {
+    "number": "3336",
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "slug": "find-the-number-of-subsequences-with-equal-gcd",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Number Theory"
+    ],
+    "language": "Python3",
+    "runtime": "1251ms (Beats 27.82%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+    "date": "2026-07-14"
   }
 ]
