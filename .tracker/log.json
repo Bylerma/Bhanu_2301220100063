@@ -332,5 +332,20 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
     "date": "2026-07-14"
+  },
+  {
+    "number": "3658",
+    "title": "GCD of Odd and Even Sums",
+    "slug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Number Theory"
+    ],
+    "language": "Python3",
+    "runtime": "0ms (Beats 100.00%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+    "date": "2026-07-16"
   }
 ]
