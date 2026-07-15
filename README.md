@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **1 Days** |
-| 🚀 Total Solved | **21** |
-| 🟢 Easy Solved | **10** |
+| 🚀 Total Solved | **22** |
+| 🟢 Easy Solved | **11** |
 | 🟡 Medium Solved | **7** |
 | 🔴 Hard Solved | **4** |
-| 📅 Last Updated | **2026-07-14** |
+| 📅 Last Updated | **2026-07-16** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[██████████░░░░░░░░░░]` **10/21** (48%)
-- **Medium:** `[███████░░░░░░░░░░░░░]` **7/21** (33%)
-- **Hard:** `[████░░░░░░░░░░░░░░░░]` **4/21** (19%)
+- **Easy:** `[██████████░░░░░░░░░░]` **11/22** (50%)
+- **Medium:** `[██████░░░░░░░░░░░░░░]` **7/22** (32%)
+- **Hard:** `[████░░░░░░░░░░░░░░░░]` **4/22** (18%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [3658. GCD of Odd and Even Sums](solutions/2026-07-16/3658-gcd-of-odd-and-even-sums/) | 🟢 Easy | Python3 | 0ms (Beats 100.00%) | 2026-07-16 |
 | [3336. Find the Number of Subsequences With Equal GCD](solutions/2026-07-14/3336-find-the-number-of-subsequences-with-equal-gcd/) | 🔴 Hard | Python3 | 1251ms (Beats 27.82%) | 2026-07-14 |
 | [36. Valid Sudoku](solutions/2026-06-23/0036-valid-sudoku/) | 🟡 Medium | Python3 | 0 ms (Beats 96.78%) | 2026-06-23 |
 | [102. Binary Tree Level Order Traversal](solutions/2026-06-22/0102-binary-tree-level-order-traversal/) | 🟡 Medium | Python3 | 0ms (Beats 100%) | 2026-06-22 |
@@ -60,4 +61,3 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | [704. Binary Search](solutions/2026-06-19/0704-binary-search/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
 | [560. Subarray Sum Equals K](solutions/2026-06-18/0560-subarray-sum-equals-k/) | 🟡 Medium | Python3 | 31ms (Beats 77.66%) | 2026-06-18 |
 | [1752. Check if Array Is Sorted and Rotated](solutions/2026-06-18/1752-check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Python3 | 20260ms (Beats 100%) | 2026-06-18 |
-| [3614. Process String with Special Operations II](solutions/2026-06-17/3614-process-string-with-special-operations-ii/) | 🔴 Hard | Python3 | 0ms | 2026-06-17 |
