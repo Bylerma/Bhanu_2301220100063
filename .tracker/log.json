@@ -347,5 +347,24 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
     "date": "2026-07-16"
+  },
+  {
+    "number": "3867",
+    "title": "Sum of GCD of Formed Pairs",
+    "slug": "sum-of-gcd-of-formed-pairs",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers",
+      "Sorting",
+      "Simulation",
+      "Number Theory"
+    ],
+    "language": "Python3",
+    "runtime": "71ms (Beats 73.12%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+    "date": "2026-07-16"
   }
 ]
