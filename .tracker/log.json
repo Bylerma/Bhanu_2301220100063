@@ -366,5 +366,26 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
     "date": "2026-07-18"
+  },
+  {
+    "number": "3312",
+    "title": "Sorted GCD Pair Queries",
+    "slug": "sorted-gcd-pair-queries",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Combinatorics",
+      "Counting",
+      "Number Theory",
+      "Prefix Sum"
+    ],
+    "language": "Python3",
+    "runtime": "0391ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+    "date": "2026-07-18"
   }
 ]
