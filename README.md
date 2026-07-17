@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **1 Days** |
-| 🚀 Total Solved | **23** |
+| 🚀 Total Solved | **24** |
 | 🟢 Easy Solved | **11** |
 | 🟡 Medium Solved | **8** |
-| 🔴 Hard Solved | **4** |
+| 🔴 Hard Solved | **5** |
 | 📅 Last Updated | **2026-07-18** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[██████████░░░░░░░░░░]` **11/23** (48%)
-- **Medium:** `[███████░░░░░░░░░░░░░]` **8/23** (35%)
-- **Hard:** `[███░░░░░░░░░░░░░░░░░]` **4/23** (17%)
+- **Easy:** `[█████████░░░░░░░░░░░]` **11/24** (46%)
+- **Medium:** `[███████░░░░░░░░░░░░░]` **8/24** (33%)
+- **Hard:** `[████░░░░░░░░░░░░░░░░]` **5/24** (21%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [3312. Sorted GCD Pair Queries](solutions/2026-07-18/3312-sorted-gcd-pair-queries/) | 🔴 Hard | Python3 | 0391ms (Beats 100%) | 2026-07-18 |
 | [3867. Sum of GCD of Formed Pairs](solutions/2026-07-18/3867-sum-of-gcd-of-formed-pairs/) | 🟡 Medium | Python3 | 078ms | 2026-07-18 |
 | [3658. GCD of Odd and Even Sums](solutions/2026-07-16/3658-gcd-of-odd-and-even-sums/) | 🟢 Easy | Python3 | 0ms (Beats 100.00%) | 2026-07-16 |
 | [3336. Find the Number of Subsequences With Equal GCD](solutions/2026-07-14/3336-find-the-number-of-subsequences-with-equal-gcd/) | 🔴 Hard | Python3 | 1251ms (Beats 27.82%) | 2026-07-14 |
@@ -60,4 +61,3 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | [33. Search in Rotated Sorted Array](solutions/2026-06-19/0033-search-in-rotated-sorted-array/) | 🟡 Medium | Python3 | 20260ms (Beats 100%) | 2026-06-19 |
 | [35. Search Insert Position](solutions/2026-06-19/0035-search-insert-position/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-19 |
 | [704. Binary Search](solutions/2026-06-19/0704-binary-search/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
-| [560. Subarray Sum Equals K](solutions/2026-06-18/0560-subarray-sum-equals-k/) | 🟡 Medium | Python3 | 31ms (Beats 77.66%) | 2026-06-18 |
