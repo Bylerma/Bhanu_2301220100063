@@ -362,9 +362,9 @@
       "Number Theory"
     ],
     "language": "Python3",
-    "runtime": "71ms (Beats 73.12%)",
+    "runtime": "078ms",
     "memory": "N/A",
     "url": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
-    "date": "2026-07-16"
+    "date": "2026-07-18"
   }
 ]
