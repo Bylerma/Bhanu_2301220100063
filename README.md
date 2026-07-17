@@ -11,7 +11,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | 🟢 Easy Solved | **11** |
 | 🟡 Medium Solved | **8** |
 | 🔴 Hard Solved | **4** |
-| 📅 Last Updated | **2026-07-16** |
+| 📅 Last Updated | **2026-07-18** |
 
 ### 📈 Progress Bar Breakdown
 
@@ -41,7 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
-| [3867. Sum of GCD of Formed Pairs](solutions/2026-07-16/3867-sum-of-gcd-of-formed-pairs/) | 🟡 Medium | Python3 | 71ms (Beats 73.12%) | 2026-07-16 |
+| [3867. Sum of GCD of Formed Pairs](solutions/2026-07-18/3867-sum-of-gcd-of-formed-pairs/) | 🟡 Medium | Python3 | 078ms | 2026-07-18 |
 | [3658. GCD of Odd and Even Sums](solutions/2026-07-16/3658-gcd-of-odd-and-even-sums/) | 🟢 Easy | Python3 | 0ms (Beats 100.00%) | 2026-07-16 |
 | [3336. Find the Number of Subsequences With Equal GCD](solutions/2026-07-14/3336-find-the-number-of-subsequences-with-equal-gcd/) | 🔴 Hard | Python3 | 1251ms (Beats 27.82%) | 2026-07-14 |
 | [36. Valid Sudoku](solutions/2026-06-23/0036-valid-sudoku/) | 🟡 Medium | Python3 | 0 ms (Beats 96.78%) | 2026-06-23 |
