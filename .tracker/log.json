@@ -387,5 +387,22 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
     "date": "2026-07-18"
+  },
+  {
+    "number": "3501",
+    "title": "Maximize Active Section with Trade II",
+    "slug": "maximize-active-section-with-trade-ii",
+    "difficulty": "Hard",
+    "tags": [
+      "Array",
+      "String",
+      "Binary Search",
+      "Segment Tree"
+    ],
+    "language": "Python3",
+    "runtime": "91ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+    "date": "2026-07-22"
   }
 ]
