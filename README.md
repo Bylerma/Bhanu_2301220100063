@@ -7,17 +7,17 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | Metric | Value |
 | --- | --- |
 | 🔥 Current Streak | **1 Days** |
-| 🚀 Total Solved | **24** |
+| 🚀 Total Solved | **25** |
 | 🟢 Easy Solved | **11** |
 | 🟡 Medium Solved | **8** |
-| 🔴 Hard Solved | **5** |
-| 📅 Last Updated | **2026-07-18** |
+| 🔴 Hard Solved | **6** |
+| 📅 Last Updated | **2026-07-22** |
 
 ### 📈 Progress Bar Breakdown
 
-- **Easy:** `[█████████░░░░░░░░░░░]` **11/24** (46%)
-- **Medium:** `[███████░░░░░░░░░░░░░]` **8/24** (33%)
-- **Hard:** `[████░░░░░░░░░░░░░░░░]` **5/24** (21%)
+- **Easy:** `[█████████░░░░░░░░░░░]` **11/25** (44%)
+- **Medium:** `[██████░░░░░░░░░░░░░░]` **8/25** (32%)
+- **Hard:** `[█████░░░░░░░░░░░░░░░]` **6/25** (24%)
 
 ---
 
@@ -41,6 +41,7 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 
 | Problem | Difficulty | Language | Runtime | Date |
 | --- | --- | --- | --- | --- |
+| [3501. Maximize Active Section with Trade II](solutions/2026-07-22/3501-maximize-active-section-with-trade-ii/) | 🔴 Hard | Python3 | 91ms (Beats 100%) | 2026-07-22 |
 | [3312. Sorted GCD Pair Queries](solutions/2026-07-18/3312-sorted-gcd-pair-queries/) | 🔴 Hard | Python3 | 0391ms (Beats 100%) | 2026-07-18 |
 | [3867. Sum of GCD of Formed Pairs](solutions/2026-07-18/3867-sum-of-gcd-of-formed-pairs/) | 🟡 Medium | Python3 | 078ms | 2026-07-18 |
 | [3658. GCD of Odd and Even Sums](solutions/2026-07-16/3658-gcd-of-odd-and-even-sums/) | 🟢 Easy | Python3 | 0ms (Beats 100.00%) | 2026-07-16 |
@@ -60,4 +61,3 @@ Auto-synced via [LeetCode → GitHub Tracker](https://github.com/swetaverse) Chr
 | [268. Missing Number](solutions/2026-06-19/0268-missing-number/) | 🟢 Easy | Python3 | 0ms (Beats 98%) | 2026-06-19 |
 | [33. Search in Rotated Sorted Array](solutions/2026-06-19/0033-search-in-rotated-sorted-array/) | 🟡 Medium | Python3 | 20260ms (Beats 100%) | 2026-06-19 |
 | [35. Search Insert Position](solutions/2026-06-19/0035-search-insert-position/) | 🟢 Easy | Python3 | 0ms (Beats 100%) | 2026-06-19 |
-| [704. Binary Search](solutions/2026-06-19/0704-binary-search/) | 🟢 Easy | Python3 | 0 ms (Beats 100%) | 2026-06-19 |
