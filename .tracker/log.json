@@ -404,5 +404,21 @@
     "memory": "N/A",
     "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
     "date": "2026-07-22"
+  },
+  {
+    "number": "3513",
+    "title": "Number of Unique XOR Triplets I",
+    "slug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ],
+    "language": "Python3",
+    "runtime": "0ms (Beats 100%)",
+    "memory": "N/A",
+    "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+    "date": "2026-07-23"
   }
 ]
